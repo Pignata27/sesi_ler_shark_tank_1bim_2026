@@ -1,0 +1,1 @@
+# sesi_ler_shark_tank_1bim_2026
