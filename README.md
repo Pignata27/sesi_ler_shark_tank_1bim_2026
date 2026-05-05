@@ -1,3 +1,5 @@
+
+
 # SESI ESPORTE AMPARO
 
 A partir de uma problemática clara: falta de incentivo de esporte na escola, foi realizado um projeto afim de criar um site sobre o esporte no Sesi Amparo 356. O tal site contém as mais recentes notícias e novidades, uniformes, calendário, elencos e campo de solicitação de treinos. 
@@ -26,4 +28,4 @@ Dentre todas as qualidades e promoções vindas a partir do site, são elas:
 
 ## Identidade Visual:
 
-![logo](./logotiposesiesporte.png)
+![Logotipo Sesi Esporte Amparo](logotiposesiesporte.png)
