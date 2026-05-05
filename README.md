@@ -29,3 +29,4 @@ Dentre todas as qualidades e promoções vindas a partir do site, são elas:
 ## Identidade Visual:
 
 ![Logotipo Sesi Esporte Amparo](logotiposesiesporte.png)
+
