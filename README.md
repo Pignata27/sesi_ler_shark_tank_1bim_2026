@@ -6,7 +6,7 @@ A partir de uma problemática clara: falta de incentivo de esporte na escola, fo
 
 ## Problemática:
 
-Partindo de uma pesquisa de campo, realizada com os alunos do 6° ano do fundamental 2 aos estudantes do 3° ano do ensino médio, consta que o nível de conhecimento e incentivo para o esporte na unidade 356 é extremamente baixo para os padrões SESI e para obter bons níveis de saúde.
+Partindo de uma pesquisa de campo, com mais de 320 alunos Sesi Amparo, realizada com os alunos do 6° ano do fundamental 2 aos estudantes do 2° ano do ensino médio, consta que o nível de conhecimento e incentivo para o esporte na unidade 356 é extremamente baixo para os padrões SESI e para obter bons níveis de saúde.
 
 ## Como será feito:
 
